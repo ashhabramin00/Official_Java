@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ \ The\ Student\ class\ is\ an\ abstract\ class\ that\ holds\ \ \r\n\ \ general\ data\ about\ a\ student.\ Classes\ representing\ \r\n\ \ specific\ types\ of\ students\ should\ inherit\ from\ \ \ \ \ \r\n\ \ this\ class.\ \r\n
+comment1.params=n\ id\ year
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ \ The\ Constructor\ accepts\ as\ arguments\ the\ \ \ \ \r\n\ \ student's\ name,\ ID\ number,\ and\ the\ year\ \ \ \ \ \r\n\ \ admitted.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ \ toString\ method\ \r\n
+comment3.params=
+comment3.target=int\ getRemainingHours()
+comment3.text=\r\n\ \ The\ getRemainingHours\ method\ is\ abstract.\ \ \ \r\n\ \ It\ must\ be\ overridden\ in\ a\ subclass.\ \r\n
+numComments=4

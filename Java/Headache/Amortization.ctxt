@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Amortization
+comment0.text=\r\n\ A\ class\ for\ storing\ loan\ information\ and\ printing\ an\r\n\ amortization\ report.\r\n
+comment1.params=loan\ rate\ years
+comment1.target=Amortization(double,\ double,\ int)
+comment1.text=\r\n\ The\ constructor\ uses\ three\ parameters\:\ loan,\r\n\ which\ is\ the\ loan\ amount,\ rate,\ which\ is\ the\r\n\ annual\ interest\ rate,\ and\ years,\ which\ is\ the\r\n\ number\ of\ years\ of\ the\ loan.\ These\ values\ are\r\n\ stored\ in\ the\ corresponding\ fields.\ The\ private\r\n\ calcPayment\ method\ is\ then\ called.\r\n
+comment2.params=
+comment2.target=void\ calcPayment()
+comment2.text=\r\n\ The\ calcPayment\ method\ is\ used\ to\ calculate\ the\r\n\ monthly\ payment\ amount.\ The\ result\ is\ stored\ in\ the\r\n\ payment\ field.\r\n
+comment3.params=
+comment3.target=int\ getNumberOfPayments()
+comment3.text=\r\n\ The\ getNumberOfPayments\ method\ returns\ the\ number\ of\r\n\ loan\ payments.\r\n
+comment4.params=filename
+comment4.target=void\ saveReport(java.lang.String)
+comment4.text=\r\n\ The\ saveReport\ method\ saves\ the\ amortization\ report\ to\r\n\ the\ file\ named\ by\ the\ filename\ argument.\ \r\n
+comment5.params=
+comment5.target=double\ getLoanAmount()
+comment5.text=\r\n\ The\ getLoanAmount\ method\ returns\ the\ loan\ amount.\r\n
+comment6.params=
+comment6.target=double\ getInterestRate()
+comment6.text=\r\n\ The\ getInterestRate\ method\ returns\ the\ interest\ rate.\r\n
+comment7.params=
+comment7.target=int\ getLoanYears()
+comment7.text=\r\n\ The\ getLoanYears\ method\ returns\ the\ years\ of\ the\ loan.\r\n
+numComments=8

@@ -1,0 +1,22 @@
+RNG Bossrush Rules
+Party Setup > Sort by Character Lvl
+1 = Current Character
+No Build Adjustments
+Reroll after boss reset or rolling 1
+
+Veto (2 Resets)
+Azdaha - C2+ Diona
+Andius - BUILT Healer
+Raiden Shogun - Electro
+Oceanid - BUILT Bird Killer (Bows/Catalysts(!)/Baal/Jean/Kazuha/Keqing)
+Rift Wolf Lord - Geo
+Pyro Cube - Hydro
+Electro Cube - Pyro/Cryo
+Hydro Cube - Cryo
+Geo Cube - Geo/Claymore
+
+Additional Notes:
+Recommended to do Weekly Bosses last to avoid early burnout (Childe < Signora < Wolf < Raiden Shogun < Azdaha)
+Prepare Waypoints in advance for Wolf & Hydro Cube
+NRE healing is permitted, no foodbuffs
+Traveler's element is up to player

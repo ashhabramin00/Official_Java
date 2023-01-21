@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ This\ class\ simulates\ a\ bank\ account.\ It\ keeps\ the\ account\r\n\ balance\ and\ adds\ periodic\ interest.\r\n\ @author\ Herbert\ Dorfmann\r\n\ @version\ 1.0\r\n
+comment1.params=startBalance\ intRate
+comment1.target=BankAccount(double,\ double)
+comment1.text=\r\n\ The\ constructor\ initializes\ the\ balance\r\n\ and\ interestRate\ fields.\ \r\n\ @param\ startBalance\ The\ starting\ balance\r\n\ @param\ intRate\ The\ interest\ rate\r\n
+comment2.params=amount
+comment2.target=void\ deposit(double)
+comment2.text=\r\n\ The\ deposit\ method\ adds\ an\ amount\ to\ \r\n\ the\ balance\ field.\r\n\ @param\ amount\ The\ amount\ to\ add\r\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\r\n\ The\ withdraw\ method\ subtracts\ an\ amount\r\n\ from\ the\ balance\ field.\r\n\ @param\ amount\ The\ amount\ to\ subtract\r\n
+comment4.params=
+comment4.target=void\ addInterest()
+comment4.text=\r\n\ The\ addInterest\ method\ adds\ the\ interest\r\n\ for\ the\ month\ to\ the\ balance\ field.\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ The\ getBalance\ method\ returns\ the\ balance.\r\n\ @return\ The\ value\ in\ the\ balance\ field\r\n
+comment6.params=
+comment6.target=double\ getInterest()
+comment6.text=\r\n\ The\ getInterest\ method\ returns\ the\ interest\r\n\ earned\ for\ the\ period.\r\n\ @return\ The\ value\ in\ the\ interest\ field\r\n
+numComments=7
