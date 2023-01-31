@@ -6,6 +6,7 @@ public class Iterator
 		ArrayList<String> list = new ArrayList<>();
 		for(String singleString : list)
 		{
+			//lol	
 			System.out.println(singleString);
 		}
 	}
