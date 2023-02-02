@@ -10,4 +10,5 @@ public abstract class STUFF
 	//purpose is to allow carrying data and filled methods, but not allow
 	//construction of class, in other words, you want to imply that it's the developers
 	//job to fill out subclasses.
+	//huh
 }
