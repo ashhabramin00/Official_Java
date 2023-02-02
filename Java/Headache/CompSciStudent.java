@@ -29,6 +29,7 @@ public class CompSciStudent extends Student
     *  The setMathHours method accepts a value for 
     *  the number of math hours taken.             
     */
+    //hehe
 
    public void setMathHours(int math)
    {
